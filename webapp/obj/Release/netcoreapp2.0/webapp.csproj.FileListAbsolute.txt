@@ -1,0 +1,11 @@
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\bin\Release\netcoreapp2.0\webapp.deps.json
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\bin\Release\netcoreapp2.0\webapp.runtimeconfig.json
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\bin\Release\netcoreapp2.0\webapp.runtimeconfig.dev.json
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\bin\Release\netcoreapp2.0\webapp.dll
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\bin\Release\netcoreapp2.0\webapp.pdb
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.dll
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.pdb
+C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.csprojAssemblyReference.cache

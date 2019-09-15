@@ -1,0 +1,2 @@
+C:\Users\tiago.ribeirog\Desktop\ProjetoDevops\webapp\webapp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\Infinet\AppMVC\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
