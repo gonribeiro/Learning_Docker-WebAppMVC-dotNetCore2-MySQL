@@ -10,11 +10,14 @@ namespace webapp.Models.ProductContext
         {
             base.OnConfiguring(optionsBuilder);
 
-            // Conexão compilando apenas o MySQL via docker
+            // Conexão BD
+            optionsBuilder.UseMySQL("server=localhost;port=3306;userid=root;password=;database=webapi;");
+
+            // Conexão compilando apenas o MySQL via docker (exemplo)
             // optionsBuilder.UseMySQL("server=localhost;port=3333;userid=root;password=123456;database=amazingdb;");
 
-            // Conexão compilando a aplicação .NET e MySQL juntas via docker
-            optionsBuilder.UseMySQL("server=db;port=3306;userid=root;password=123456;database=amazingdb;");
+            // Conexão compilando a aplicação .NET e MySQL juntas via docker (exemplo)
+            // optionsBuilder.UseMySQL("server=db;port=3306;userid=root;password=123456;database=amazingdb;");
         }
 
         public ProductContext()

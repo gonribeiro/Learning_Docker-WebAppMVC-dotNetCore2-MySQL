@@ -9,3 +9,17 @@ C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.As
 C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.dll
 C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.pdb
 C:\Users\Tiago\Desktop\Infinet\AppMVC\webapp\obj\Release\netcoreapp2.0\webapp.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\bin\Release\netcoreapp2.0\bundleconfig.json
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\bin\Release\netcoreapp2.0\webapp.deps.json
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\bin\Release\netcoreapp2.0\webapp.runtimeconfig.json
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\bin\Release\netcoreapp2.0\webapp.runtimeconfig.dev.json
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\bin\Release\netcoreapp2.0\webapp.dll
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\bin\Release\netcoreapp2.0\webapp.pdb
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\obj\Release\netcoreapp2.0\webapp.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\obj\Release\netcoreapp2.0\webapp.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\obj\Release\netcoreapp2.0\webapp.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\obj\Release\netcoreapp2.0\webapp.dll
+C:\Users\Tiago\Desktop\Learning_Docker-WebAppMVC-dotNetCore2-MySQL\webapp\obj\Release\netcoreapp2.0\webapp.pdb
