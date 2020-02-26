@@ -1,0 +1,15 @@
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\bin\Debug\netcoreapp3.0\ClienteDDD.Aplica.deps.json
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\bin\Debug\netcoreapp3.0\ClienteDDD.Aplica.dll
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\bin\Debug\netcoreapp3.0\ClienteDDD.Aplica.pdb
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\bin\Debug\netcoreapp3.0\ClienteDDD.dll
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\bin\Debug\netcoreapp3.0\ClienteDDD.Infra.Dados.dll
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\bin\Debug\netcoreapp3.0\ClienteDDD.Infra.Dados.pdb
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\bin\Debug\netcoreapp3.0\ClienteDDD.pdb
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\obj\Debug\netcoreapp3.0\ClienteDDD.Aplica.csprojAssemblyReference.cache
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\obj\Debug\netcoreapp3.0\ClienteDDD.Aplica.AssemblyInfoInputs.cache
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\obj\Debug\netcoreapp3.0\ClienteDDD.Aplica.AssemblyInfo.cs
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\obj\Debug\netcoreapp3.0\ClienteDDD.Aplica.csproj.CopyComplete
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\obj\Debug\netcoreapp3.0\ClienteDDD.Aplica.dll
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\obj\Debug\netcoreapp3.0\ClienteDDD.Aplica.pdb
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\bin\Debug\netcoreapp3.0\ClienteDDD.Aplica.runtimeconfig.json
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD.Aplica\bin\Debug\netcoreapp3.0\ClienteDDD.Aplica.runtimeconfig.dev.json

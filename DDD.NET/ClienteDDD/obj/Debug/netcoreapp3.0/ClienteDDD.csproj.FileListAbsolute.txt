@@ -1,0 +1,10 @@
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\bin\Debug\netcoreapp3.0\ClienteDDD.deps.json
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\bin\Debug\netcoreapp3.0\ClienteDDD.dll
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\bin\Debug\netcoreapp3.0\ClienteDDD.pdb
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\obj\Debug\netcoreapp3.0\ClienteDDD.csprojAssemblyReference.cache
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\obj\Debug\netcoreapp3.0\ClienteDDD.AssemblyInfoInputs.cache
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\obj\Debug\netcoreapp3.0\ClienteDDD.AssemblyInfo.cs
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\obj\Debug\netcoreapp3.0\ClienteDDD.dll
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\obj\Debug\netcoreapp3.0\ClienteDDD.pdb
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\bin\Debug\netcoreapp3.0\ClienteDDD.runtimeconfig.json
+C:\Users\guy.mbjunior\source\repos\ClienteDDD\ClienteDDD\bin\Debug\netcoreapp3.0\ClienteDDD.runtimeconfig.dev.json
