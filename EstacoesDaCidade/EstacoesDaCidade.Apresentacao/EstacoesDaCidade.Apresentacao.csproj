@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>0d1633af-fa29-4fe6-9b74-e238a1d82812</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.10" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EstacoesDaCidade.Aplicacao\EstacoesDaCidade.Aplicacao.csproj" />
+    <ProjectReference Include="..\EstacoesDaCidade.Dominio\EstacoesDaCidade.Dominio.csproj" />
+    <ProjectReference Include="..\EstacoesDaCidade.Infra.Dados\EstacoesDaCidade.Infra.Dados.csproj" />
+  </ItemGroup>
+
+
+
+</Project>
