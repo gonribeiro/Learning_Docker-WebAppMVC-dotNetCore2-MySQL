@@ -34,6 +34,8 @@ namespace EstacoesDaCidade.Apresentacao
             services.AddSingleton(typeof(IBase<>), typeof(RepositorioBase<>));
             services.AddSingleton<IEstacaoRecarga, EstacaoRecargaRepositorio>();
             services.AddSingleton<IEstacaoRecargaApp, EstacaoRecargaApp>();
+            services.AddSingleton<ITipoRecarga, TipoRecargaRepositorio>();
+            services.AddSingleton<ITipoRecargaApp, TipoRecargaApp>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

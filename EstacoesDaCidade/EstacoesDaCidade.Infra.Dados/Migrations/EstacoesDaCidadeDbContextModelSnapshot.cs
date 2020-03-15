@@ -41,6 +41,20 @@ namespace EstacoesDaCidade.Infra.Dados.Migrations
 
                     b.ToTable("EstacoesRecarga");
                 });
+
+            modelBuilder.Entity("EstacoesDaCidade.Dominio.Entidades.TipoRecarga", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("TipoNome")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("TipoRecarga");
+                });
 #pragma warning restore 612, 618
         }
     }

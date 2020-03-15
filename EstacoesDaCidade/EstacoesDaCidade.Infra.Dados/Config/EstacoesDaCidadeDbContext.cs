@@ -9,6 +9,7 @@ namespace EstacoesDaCidade.Infra.Dados.Config
     public class EstacoesDaCidadeDbContext : DbContext
     {
         public DbSet<EstacaoRecarga> EstacoesRecarga { get; set; }
+        public DbSet<TipoRecarga> TipoRecarga { get; set; }
 
         public EstacoesDaCidadeDbContext()
         {

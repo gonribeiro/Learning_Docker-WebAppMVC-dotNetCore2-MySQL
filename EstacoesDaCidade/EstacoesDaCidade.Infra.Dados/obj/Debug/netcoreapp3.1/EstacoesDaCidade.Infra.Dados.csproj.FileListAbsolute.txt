@@ -11,3 +11,16 @@ C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\EstacoesDaCidade\
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.csproj.CopyComplete
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.pdb
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.deps.json
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.runtimeconfig.json
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.runtimeconfig.dev.json
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.dll
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.pdb
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.dll
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.pdb
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.csproj.CopyComplete
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.dll
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Infra.Dados\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Infra.Dados.pdb
