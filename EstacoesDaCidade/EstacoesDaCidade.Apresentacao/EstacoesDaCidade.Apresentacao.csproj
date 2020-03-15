@@ -21,6 +21,10 @@
     <ProjectReference Include="..\EstacoesDaCidade.Infra.Dados\EstacoesDaCidade.Infra.Dados.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Maps\" />
+  </ItemGroup>
+
 
 
 </Project>

@@ -14,6 +14,6 @@ namespace EstacoesDaCidade.Aplicacao.Interfaces
 
         void Excluir(T obj);
 
-        IList<T> Listar();
+        IList<T>Listar();
     }
 }

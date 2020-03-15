@@ -1,0 +1,63 @@
+﻿<!--
+
+https://www.google.com/maps/place/589R3RVF%2BH6/@-22.9060625,-43.1769375
+https://www.google.com/maps/place/589R3RVF%2BH6/-22.9060625,-43.1769375
+
+
+
+https://www.google.com/maps/place/@-22.9060471,-43.2469785,12z/
+
+https://www.google.com/maps/place/Nova+Am%C3%A9rica+Shopping/@-22.9060471,-43.2469785,12z/data=!4m8!1m2!2m1!1snova+america!3m4!1s0x997c3f0a7c5cdd:0xf31c91cd0302bb07!8m2!3d-22.8777006!4d-43.2716991
+
+
+
+
+https://www.openstreetmap.org/#map=17/-22.87859/-43.27209
+https://www.openstreetmap.org/#map=17/-22.906103/-43.1791337
+
+-22.8777006 -43.2716991
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1093.4794971845176!2d-43.20222084473129!3d-22.80202081794678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99778839b18c5b%3A0x77196dc668650055!2sIlha%20plaza!5e0!3m2!1spt-BR!2sbr!4v1584246639261!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+-22.8777006
+-43.2716991
+
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+         /* Always set the map height explicitly to define the size of the div
+        * element that contains the map. */
+         #map {
+             height: 100%;
+         }
+         /* Optional: Makes the sample page fill the window. */
+         html, body {
+             height: 100%;
+             margin: 0;
+             padding: 0;
+         }
+    </style>
+</head>
+<body>
+    Request.QueryString["latitude"];
+    <div id="map"></div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARmPvNzxsaW1z77n3wNVU0K5X6YCvyeZM&callback=initMap" async defer></script>
+    <script>
+        var map;
+        function initMap() {
+            map = new google.maps.Map(document.getElementById('map'), {
+                center: { lat: -22.8777006, lng: -43.2716991 },
+                zoom: 17
+            });
+        }
+    </script>
+</body>
+</html>

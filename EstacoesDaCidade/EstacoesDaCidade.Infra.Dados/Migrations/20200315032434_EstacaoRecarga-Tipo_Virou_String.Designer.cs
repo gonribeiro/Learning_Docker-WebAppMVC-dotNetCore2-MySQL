@@ -4,14 +4,16 @@ using EstacoesDaCidade.Infra.Dados.Config;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace EstacoesDaCidade.Infra.Dados.Migrations
 {
     [DbContext(typeof(EstacoesDaCidadeDbContext))]
-    partial class EstacoesDaCidadeDbContextModelSnapshot : ModelSnapshot
+    [Migration("20200315032434_EstacaoRecarga-Tipo_Virou_String")]
+    partial class EstacaoRecargaTipo_Virou_String
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

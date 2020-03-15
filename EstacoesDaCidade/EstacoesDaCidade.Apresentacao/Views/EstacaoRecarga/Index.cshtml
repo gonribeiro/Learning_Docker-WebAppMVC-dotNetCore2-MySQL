@@ -45,7 +45,9 @@
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                <a href="https://www.google.com/maps/place/@item.Latitude,@item.Longitude" target="_blank">Ver no Mapa</a>
+                <a href="https://localhost:44301/Maps/index.cshtml?latitude=@item.Latitude&longitude=@item.Longitude" target="_blank">Ver no Mapa2</a>
             </td>
         </tr>
 }
