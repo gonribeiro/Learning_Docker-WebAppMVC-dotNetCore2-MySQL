@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+         /* Always set the map height explicitly to define the size of the div
+        * element that contains the map. */
+         #map {
+             height: 100%;
+         }
+         /* Optional: Makes the sample page fill the window. */
+         html, body {
+             height: 100%;
+             margin: 0;
+             padding: 0;
+         }
+    </style>
+</head>
+<body>
+    <!-- API GoogleMaps -->
+    <div id="map"></div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARmPvNzxsaW1z77n3wNVU0K5X6YCvyeZM&callback=initMap" async defer></script>
+    
+    <script>
+
+        // Pegar valores de longitude e latitude da url
+        var query = location.search.slice(1);
+        var partes = query.split('&');
+        var data = {};
+        partes.forEach(function (parte) {
+            var chaveValor = parte.split('=');
+            var chave = chaveValor[0];
+            var valor = chaveValor[1];
+            data[chave] = valor;
+        });
+
+        // Formata valores do get url e transforma em Number (formatado exigido pela API)        
+        var latitude = data.latitude;
+
+        var metade = Math.floor(latitude.length / 3);
+        var resultado = latitude.substr(0, metade) + "." + latitude.substr(metade);
+        var latitude = Number(resultado);
+
+        var longitude = data.longitude;
+
+        var metade = Math.floor(longitude.length / 3);
+        var resultado = longitude.substr(0, metade) + "." + longitude.substr(metade);
+        var longitude = Number(resultado);
+
+        // API GoogleMaps
+        var map;
+        function initMap() {
+            map = new google.maps.Map(document.getElementById('map'), {        
+                center: { lat: latitude, lng: longitude },
+                zoom: 20
+            });
+        }
+    </script>
+</body>
+</html>

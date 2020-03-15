@@ -4,7 +4,15 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h3>Como cadastrar uma nova localização?</h3>
+
+1. No computador, abra o <a href="https://www.google.com/maps" target="_blank">Google Maps</a>. Se estiver usando o Google Maps em modo Lite, o desenho de um raio aparecerá na parte inferior, e você não poderá ver as coordenadas de um lugar.
+<br/>2. Clique com o botão direito do mouse no lugar ou na área no mapa.
+<br />3. Selecione "O que há aqui?".
+<br />4. Na parte inferior, você verá um cartão com as coordenadas.
+<br />5. Copie as coordenadas (não se esqueça do sinal de negativo [" - " (menos)] se houver).
+<br />6. Cole nos respectivos campos Latitude e Longitude ao criar ou editar uma localização.
+<br /><br />
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -28,28 +36,44 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Nome)
+                (Exemplo) Estação Shopping Nova América
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Tipo)
+                Recarga de Dispositivo Móvel
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Latitude)
+                -228777006
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Longitude)
+                -432716991
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
-                <a href="https://www.google.com/maps/place/@item.Latitude,@item.Longitude" target="_blank">Ver no Mapa</a>
-                <a href="https://localhost:44301/Maps/index.cshtml?latitude=@item.Latitude&longitude=@item.Longitude" target="_blank">Ver no Mapa2</a>
+                <a href="https://localhost:44301/maps/index.html?latitude=-228777006&longitude=-432716991" target="_blank">Ver no Mapa</a>
             </td>
         </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tipo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Latitude)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Longitude)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                    <a href="https://localhost:44301/maps/index.html?latitude=@item.Latitude&longitude=@item.Longitude" target="_blank">Ver no Mapa</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
