@@ -296,3 +296,4 @@ C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\Es
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Apresentacao\obj\Debug\netcoreapp3.1\Razor\Views\EstacaoRecarga\Edit.cshtml.g.cs
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Apresentacao\obj\Debug\netcoreapp3.1\Razor\Views\TipoRecarga\Index.cshtml.g.cs
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Apresentacao\obj\Debug\netcoreapp3.1\Razor\Views\TipoRecarga\Create.cshtml.g.cs
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Apresentacao\obj\Debug\netcoreapp3.1\Razor\Views\EstacaoRecarga\Details.cshtml.g.cs

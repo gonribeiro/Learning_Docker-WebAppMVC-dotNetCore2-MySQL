@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\Maps\**" />
+    <Content Remove="Views\Maps\**" />
+    <EmbeddedResource Remove="Views\Maps\**" />
+    <None Remove="Views\Maps\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="wwwroot\maps\Index2.html" />
   </ItemGroup>
 
@@ -23,10 +30,6 @@
     <ProjectReference Include="..\EstacoesDaCidade.Aplicacao\EstacoesDaCidade.Aplicacao.csproj" />
     <ProjectReference Include="..\EstacoesDaCidade.Dominio\EstacoesDaCidade.Dominio.csproj" />
     <ProjectReference Include="..\EstacoesDaCidade.Infra.Dados\EstacoesDaCidade.Infra.Dados.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Views\Maps\" />
   </ItemGroup>
 
 
