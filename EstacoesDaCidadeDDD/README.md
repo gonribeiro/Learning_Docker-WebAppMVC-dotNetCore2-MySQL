@@ -1,0 +1,1 @@
+Projeto permite cadastrar uma localização a partir das coordenadas de latitude e longitude e posteriormente exibir, de forma simples, a localização no maps.
