@@ -53,10 +53,11 @@ namespace BluBank
                 switch (menu)
                 {
                     case 1:
+                        rel.ZeraSomar();
                         rel.Somar(cc);
                         rel.Somar(cp);
-                        Console.WriteLine("\nSaldo Conta Poupança: " + cp.Saldo +
-                            "\nSaldo Conta Corrente: " + cc.Saldo +
+                        Console.WriteLine("\nSaldo Conta Corrente: " + cc.Saldo +
+                            "\nSaldo Conta Poupança: " + cp.Saldo +
                             "\nSaldo Total: " + rel.SaldoGeral);
                         break;
                     case 2:

@@ -20,3 +20,14 @@ C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\CS
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\CSharp POO\BluBank\BluBank\obj\Debug\netcoreapp3.1\BluBank.AssemblyInfo.cs
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\CSharp POO\BluBank\BluBank\obj\Debug\netcoreapp3.1\BluBank.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\CSharp POO\BluBank\BluBank\obj\Debug\netcoreapp3.1\BluBank.pdb
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\bin\Debug\netcoreapp3.1\BluBank.exe
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\bin\Debug\netcoreapp3.1\BluBank.deps.json
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\bin\Debug\netcoreapp3.1\BluBank.runtimeconfig.json
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\bin\Debug\netcoreapp3.1\BluBank.runtimeconfig.dev.json
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\bin\Debug\netcoreapp3.1\BluBank.dll
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\bin\Debug\netcoreapp3.1\BluBank.pdb
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\obj\Debug\netcoreapp3.1\BluBank.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\obj\Debug\netcoreapp3.1\BluBank.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\obj\Debug\netcoreapp3.1\BluBank.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\obj\Debug\netcoreapp3.1\BluBank.dll
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\BancoPOO\BluBank\BluBank\obj\Debug\netcoreapp3.1\BluBank.pdb

@@ -1,0 +1,1 @@
+https://www.codeproject.com/Articles/1243860/Create-Stock-Charts-with-ASP-NET-Core-MVC-and-REST

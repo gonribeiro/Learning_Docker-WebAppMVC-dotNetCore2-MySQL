@@ -12,5 +12,10 @@ namespace BluBank
         {
             this.SaldoGeral += conta.Saldo;
         }
+
+        public void ZeraSomar()
+        {
+            this.SaldoGeral = 0;
+        }
     }
 }

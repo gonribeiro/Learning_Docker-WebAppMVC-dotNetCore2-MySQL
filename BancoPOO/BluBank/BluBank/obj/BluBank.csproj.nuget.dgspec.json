@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\CSharp POO\\BluBank\\BluBank\\BluBank.csproj": {}
+    "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\BancoPOO\\BluBank\\BluBank\\BluBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\CSharp POO\\BluBank\\BluBank\\BluBank.csproj": {
+    "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\BancoPOO\\BluBank\\BluBank\\BluBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\CSharp POO\\BluBank\\BluBank\\BluBank.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\BancoPOO\\BluBank\\BluBank\\BluBank.csproj",
         "projectName": "BluBank",
-        "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\CSharp POO\\BluBank\\BluBank\\BluBank.csproj",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\BancoPOO\\BluBank\\BluBank\\BluBank.csproj",
         "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\CSharp POO\\BluBank\\BluBank\\obj\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\BancoPOO\\BluBank\\BluBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
