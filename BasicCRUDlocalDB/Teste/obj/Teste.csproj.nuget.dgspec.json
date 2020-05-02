@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago.ribeirog.LABORATORIO\\Desktop\\Projetos\\Teste\\Teste\\Teste.csproj": {}
+    "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\BasicCrudLocalDB\\Teste\\Teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago.ribeirog.LABORATORIO\\Desktop\\Projetos\\Teste\\Teste\\Teste.csproj": {
+    "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\BasicCrudLocalDB\\Teste\\Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.ribeirog.LABORATORIO\\Desktop\\Projetos\\Teste\\Teste\\Teste.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\BasicCrudLocalDB\\Teste\\Teste.csproj",
         "projectName": "Teste",
-        "projectPath": "C:\\Users\\tiago.ribeirog.LABORATORIO\\Desktop\\Projetos\\Teste\\Teste\\Teste.csproj",
-        "packagesPath": "C:\\Users\\tiago.ribeirog.LABORATORIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.ribeirog.LABORATORIO\\Desktop\\Projetos\\Teste\\Teste\\obj\\",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\BasicCrudLocalDB\\Teste\\Teste.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\BasicCrudLocalDB\\Teste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\tiago.ribeirog.LABORATORIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -87,6 +86,14 @@
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[3.0.2, 3.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
             }
           ],
           "frameworkReferences": {
