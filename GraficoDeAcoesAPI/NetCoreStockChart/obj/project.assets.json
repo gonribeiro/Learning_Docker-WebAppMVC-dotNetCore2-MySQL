@@ -12736,11 +12736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\GraficoDeAcoesAPI\\NetCoreStockChart\\NetCoreStockChart.csproj",
+      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\GraficoDeAcoesAPI\\NetCoreStockChart\\NetCoreStockChart.csproj",
       "projectName": "NetCoreStockChart",
-      "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\GraficoDeAcoesAPI\\NetCoreStockChart\\NetCoreStockChart.csproj",
+      "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\GraficoDeAcoesAPI\\NetCoreStockChart\\NetCoreStockChart.csproj",
       "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\GraficoDeAcoesAPI\\NetCoreStockChart\\obj\\",
+      "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\GraficoDeAcoesAPI\\NetCoreStockChart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

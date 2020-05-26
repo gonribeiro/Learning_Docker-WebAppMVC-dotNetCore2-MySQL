@@ -6418,11 +6418,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\MovieDataBaseADONet\\InfnetMovieDataBase\\InfnetMovieDataBase.csproj",
+      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\FilmeDataBaseADONet\\InfnetMovieDataBase\\InfnetMovieDataBase.csproj",
       "projectName": "InfnetMovieDataBase",
-      "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\MovieDataBaseADONet\\InfnetMovieDataBase\\InfnetMovieDataBase.csproj",
+      "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\FilmeDataBaseADONet\\InfnetMovieDataBase\\InfnetMovieDataBase.csproj",
       "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\MovieDataBaseADONet\\InfnetMovieDataBase\\obj\\",
+      "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\FilmeDataBaseADONet\\InfnetMovieDataBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
