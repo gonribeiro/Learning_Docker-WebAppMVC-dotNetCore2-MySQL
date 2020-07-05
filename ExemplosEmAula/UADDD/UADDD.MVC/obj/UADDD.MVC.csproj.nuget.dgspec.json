@@ -1,0 +1,562 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.MVC\\UADDD.MVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao.DTO\\UADDD.Aplicacao.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao.DTO\\UADDD.Aplicacao.DTO.csproj",
+        "projectName": "UADDD.Aplicacao.DTO",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao.DTO\\UADDD.Aplicacao.DTO.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao\\UADDD.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao\\UADDD.Aplicacao.csproj",
+        "projectName": "UADDD.Aplicacao",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao\\UADDD.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj"
+              },
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting.AutoMapper\\UADDD.Infraestrutura.CrossCuting.AutoMapper.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting.AutoMapper\\UADDD.Infraestrutura.CrossCuting.AutoMapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio.Servicos\\UADDD.Dominio.Servicos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio.Servicos\\UADDD.Dominio.Servicos.csproj",
+        "projectName": "UADDD.Dominio.Servicos",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio.Servicos\\UADDD.Dominio.Servicos.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio.Servicos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj",
+        "projectName": "UADDD.Dominio",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting.AutoMapper\\UADDD.Infraestrutura.CrossCuting.AutoMapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting.AutoMapper\\UADDD.Infraestrutura.CrossCuting.AutoMapper.csproj",
+        "projectName": "UADDD.Infraestrutura.CrossCuting.AutoMapper",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting.AutoMapper\\UADDD.Infraestrutura.CrossCuting.AutoMapper.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting.AutoMapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao.DTO\\UADDD.Aplicacao.DTO.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao.DTO\\UADDD.Aplicacao.DTO.csproj"
+              },
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting\\UADDD.Infraestrutura.CrossCuting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting\\UADDD.Infraestrutura.CrossCuting.csproj",
+        "projectName": "UADDD.Infraestrutura.CrossCuting",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting\\UADDD.Infraestrutura.CrossCuting.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao\\UADDD.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao\\UADDD.Aplicacao.csproj"
+              },
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio.Servicos\\UADDD.Dominio.Servicos.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio.Servicos\\UADDD.Dominio.Servicos.csproj"
+              },
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting.AutoMapper\\UADDD.Infraestrutura.CrossCuting.AutoMapper.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting.AutoMapper\\UADDD.Infraestrutura.CrossCuting.AutoMapper.csproj"
+              },
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.Persistencia\\UADDD.Infraestrutura.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.Persistencia\\UADDD.Infraestrutura.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoFac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.Persistencia\\UADDD.Infraestrutura.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.Persistencia\\UADDD.Infraestrutura.Persistencia.csproj",
+        "projectName": "UADDD.Infraestrutura.Persistencia",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.Persistencia\\UADDD.Infraestrutura.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Dominio\\UADDD.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.MVC\\UADDD.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.MVC\\UADDD.MVC.csproj",
+        "projectName": "UADDD.MVC",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.MVC\\UADDD.MVC.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao\\UADDD.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Aplicacao\\UADDD.Aplicacao.csproj"
+              },
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting\\UADDD.Infraestrutura.CrossCuting.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.CrossCuting\\UADDD.Infraestrutura.CrossCuting.csproj"
+              },
+              "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.Persistencia\\UADDD.Infraestrutura.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\UA\\UADDD.Infraestrutura.Persistencia\\UADDD.Infraestrutura.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoFac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

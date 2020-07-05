@@ -18,3 +18,15 @@ C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\Es
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.AssemblyInfo.cs
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET Core\ProjetosInfnet\EstacoesDaCidade\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.pdb
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.deps.json
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.runtimeconfig.json
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.runtimeconfig.dev.json
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.dll
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\bin\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.pdb
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.dll
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.pdb
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\ProjetosInfnet\EstacoesDaCidadeDDD\EstacoesDaCidade.Dominio\obj\Debug\netcoreapp3.1\EstacoesDaCidade.Dominio.genruntimeconfig.cache

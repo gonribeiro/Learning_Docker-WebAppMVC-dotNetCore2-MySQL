@@ -4969,11 +4969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Infra.Dados\\EstacoesDaCidade.Infra.Dados.csproj",
+      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Infra.Dados\\EstacoesDaCidade.Infra.Dados.csproj",
       "projectName": "EstacoesDaCidade.Infra.Dados",
-      "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Infra.Dados\\EstacoesDaCidade.Infra.Dados.csproj",
+      "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Infra.Dados\\EstacoesDaCidade.Infra.Dados.csproj",
       "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Infra.Dados\\obj\\",
+      "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Infra.Dados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4992,8 +4992,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj"
+            "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj"
             }
           }
         }
@@ -5043,7 +5043,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

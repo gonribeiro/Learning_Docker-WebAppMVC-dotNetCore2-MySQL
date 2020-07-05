@@ -1,0 +1,13 @@
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\bin\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.deps.json
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\bin\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\bin\Debug\netcoreapp3.1\UADDD.Dominio.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\bin\Debug\netcoreapp3.1\UADDD.Dominio.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.csproj.CopyComplete
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\bin\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.runtimeconfig.json
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\bin\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.runtimeconfig.dev.json
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\bin\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.Persistencia\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.Persistencia.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\obj\Debug\netcoreapp3.1\UADDD.Dominio.Financeiro.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\obj\Debug\netcoreapp3.1\UADDD.Dominio.Financeiro.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\obj\Debug\netcoreapp3.1\UADDD.Dominio.Financeiro.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\bin\Debug\netcoreapp3.1\UADDD.Dominio.Financeiro.deps.json
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\bin\Debug\netcoreapp3.1\UADDD.Dominio.Financeiro.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\bin\Debug\netcoreapp3.1\UADDD.Dominio.Financeiro.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\bin\Debug\netcoreapp3.1\UADDD.Dominio.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\bin\Debug\netcoreapp3.1\UADDD.Dominio.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\obj\Debug\netcoreapp3.1\UADDD.Dominio.Financeiro.csproj.CopyComplete
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\obj\Debug\netcoreapp3.1\UADDD.Dominio.Financeiro.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Financeiro\obj\Debug\netcoreapp3.1\UADDD.Dominio.Financeiro.pdb

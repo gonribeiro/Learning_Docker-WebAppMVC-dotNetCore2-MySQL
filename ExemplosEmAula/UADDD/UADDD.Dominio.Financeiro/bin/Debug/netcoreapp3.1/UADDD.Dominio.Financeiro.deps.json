@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UADDD.Dominio.Financeiro/1.0.0": {
+        "dependencies": {
+          "UADDD.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "UADDD.Dominio.Financeiro.dll": {}
+        }
+      },
+      "UADDD.Dominio/1.0.0": {
+        "runtime": {
+          "UADDD.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UADDD.Dominio.Financeiro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UADDD.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio\obj\Debug\netcoreapp3.1\UADDD.Dominio.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio\obj\Debug\netcoreapp3.1\UADDD.Dominio.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio\obj\Debug\netcoreapp3.1\UADDD.Dominio.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio\bin\Debug\netcoreapp3.1\UADDD.Dominio.deps.json
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio\bin\Debug\netcoreapp3.1\UADDD.Dominio.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio\bin\Debug\netcoreapp3.1\UADDD.Dominio.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio\obj\Debug\netcoreapp3.1\UADDD.Dominio.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio\obj\Debug\netcoreapp3.1\UADDD.Dominio.pdb

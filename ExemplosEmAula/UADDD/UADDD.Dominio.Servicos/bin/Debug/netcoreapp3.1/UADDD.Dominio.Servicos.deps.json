@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UADDD.Dominio.Servicos/1.0.0": {
+        "dependencies": {
+          "UADDD.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "UADDD.Dominio.Servicos.dll": {}
+        }
+      },
+      "UADDD.Dominio/1.0.0": {
+        "runtime": {
+          "UADDD.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UADDD.Dominio.Servicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UADDD.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

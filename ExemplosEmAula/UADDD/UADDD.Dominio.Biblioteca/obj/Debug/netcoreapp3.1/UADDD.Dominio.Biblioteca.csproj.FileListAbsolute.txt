@@ -1,0 +1,11 @@
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\obj\Debug\netcoreapp3.1\UADDD.Dominio.Biblioteca.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\obj\Debug\netcoreapp3.1\UADDD.Dominio.Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\obj\Debug\netcoreapp3.1\UADDD.Dominio.Biblioteca.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\bin\Debug\netcoreapp3.1\UADDD.Dominio.Biblioteca.deps.json
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\bin\Debug\netcoreapp3.1\UADDD.Dominio.Biblioteca.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\bin\Debug\netcoreapp3.1\UADDD.Dominio.Biblioteca.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\bin\Debug\netcoreapp3.1\UADDD.Dominio.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\bin\Debug\netcoreapp3.1\UADDD.Dominio.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\obj\Debug\netcoreapp3.1\UADDD.Dominio.Biblioteca.csproj.CopyComplete
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\obj\Debug\netcoreapp3.1\UADDD.Dominio.Biblioteca.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Dominio.Biblioteca\obj\Debug\netcoreapp3.1\UADDD.Dominio.Biblioteca.pdb

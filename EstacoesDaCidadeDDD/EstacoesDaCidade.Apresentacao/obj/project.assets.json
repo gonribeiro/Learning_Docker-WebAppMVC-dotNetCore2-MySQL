@@ -8278,11 +8278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Apresentacao\\EstacoesDaCidade.Apresentacao.csproj",
+      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Apresentacao\\EstacoesDaCidade.Apresentacao.csproj",
       "projectName": "EstacoesDaCidade.Apresentacao",
-      "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Apresentacao\\EstacoesDaCidade.Apresentacao.csproj",
+      "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Apresentacao\\EstacoesDaCidade.Apresentacao.csproj",
       "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Apresentacao\\obj\\",
+      "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Apresentacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8301,14 +8301,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Aplicacao\\EstacoesDaCidade.Aplicacao.csproj": {
-              "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Aplicacao\\EstacoesDaCidade.Aplicacao.csproj"
+            "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Aplicacao\\EstacoesDaCidade.Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Aplicacao\\EstacoesDaCidade.Aplicacao.csproj"
             },
-            "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj"
+            "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj"
             },
-            "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Infra.Dados\\EstacoesDaCidade.Infra.Dados.csproj": {
-              "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET Core\\ProjetosInfnet\\EstacoesDaCidade\\EstacoesDaCidade.Infra.Dados\\EstacoesDaCidade.Infra.Dados.csproj"
+            "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Infra.Dados\\EstacoesDaCidade.Infra.Dados.csproj": {
+              "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Infra.Dados\\EstacoesDaCidade.Infra.Dados.csproj"
             }
           }
         }
@@ -8355,7 +8355,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

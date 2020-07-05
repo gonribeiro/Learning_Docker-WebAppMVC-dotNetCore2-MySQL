@@ -1,0 +1,13 @@
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.CrossCuting.AutoMapper.csprojAssemblyReference.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.CrossCuting.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.CrossCuting.AutoMapper.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\bin\Debug\netcoreapp3.1\UADDD.Infraestrutura.CrossCuting.AutoMapper.deps.json
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\bin\Debug\netcoreapp3.1\UADDD.Infraestrutura.CrossCuting.AutoMapper.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\bin\Debug\netcoreapp3.1\UADDD.Infraestrutura.CrossCuting.AutoMapper.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\bin\Debug\netcoreapp3.1\UADDD.Aplicacao.DTO.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\bin\Debug\netcoreapp3.1\UADDD.Dominio.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\bin\Debug\netcoreapp3.1\UADDD.Aplicacao.DTO.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\bin\Debug\netcoreapp3.1\UADDD.Dominio.pdb
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.CrossCuting.AutoMapper.csproj.CopyComplete
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.CrossCuting.AutoMapper.dll
+C:\Users\Tiago\Desktop\projetos\UA\UADDD.Infraestrutura.CrossCuting.AutoMapper\obj\Debug\netcoreapp3.1\UADDD.Infraestrutura.CrossCuting.AutoMapper.pdb

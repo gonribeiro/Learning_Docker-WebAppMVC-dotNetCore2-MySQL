@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UADDD.Aplicacao/1.0.0": {
+        "dependencies": {
+          "UADDD.Dominio": "1.0.0",
+          "UADDD.Infraestrutura.CrossCuting.AutoMapper": "1.0.0"
+        },
+        "runtime": {
+          "UADDD.Aplicacao.dll": {}
+        }
+      },
+      "UADDD.Aplicacao.DTO/1.0.0": {
+        "dependencies": {
+          "UADDD.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "UADDD.Aplicacao.DTO.dll": {}
+        }
+      },
+      "UADDD.Dominio/1.0.0": {
+        "runtime": {
+          "UADDD.Dominio.dll": {}
+        }
+      },
+      "UADDD.Infraestrutura.CrossCuting.AutoMapper/1.0.0": {
+        "dependencies": {
+          "UADDD.Aplicacao.DTO": "1.0.0",
+          "UADDD.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "UADDD.Infraestrutura.CrossCuting.AutoMapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UADDD.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UADDD.Aplicacao.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UADDD.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UADDD.Infraestrutura.CrossCuting.AutoMapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
