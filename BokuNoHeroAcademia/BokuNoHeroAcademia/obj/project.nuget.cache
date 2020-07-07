@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MMSAnHPjixSbRhTxRcQmm/ZyerV1Hj1WFHJDY5VmorzK8bDGMDCK7HPgLyOwvp0ZnTtC2xAM703xtZu812wg2Q==",
+  "dgSpecHash": "eCZ9/iUEALjyfkk070RQPEIykldKpijPHMVAdRi6n1i3oLDmoFeWL/voDQeTx1yDwveXx32o7dIU8I98j/EQBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tiago\\Desktop\\projetos\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj",
+  "projectFilePath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

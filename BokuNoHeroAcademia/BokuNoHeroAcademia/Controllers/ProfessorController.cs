@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BokuNoHeroAcademia.Data;
 using BokuNoHeroAcademia.Models;
@@ -40,24 +38,6 @@ namespace BokuNoHeroAcademia.Controllers
             }
 
             return View(viewModel);
-        }
-
-        // GET: Professor/Details/5
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var professor = await _context.Professor
-                .FirstOrDefaultAsync(m => m.ID == id);
-            if (professor == null)
-            {
-                return NotFound();
-            }
-
-            return View(professor);
         }
 
         // GET: Professor/Create

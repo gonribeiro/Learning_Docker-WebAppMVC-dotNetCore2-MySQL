@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using BokuNoHeroAcademia.Models;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace BokuNoHeroAcademia.Data
 {

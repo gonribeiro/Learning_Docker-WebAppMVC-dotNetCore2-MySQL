@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tiago\\Desktop\\projetos\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj": {}
+    "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tiago\\Desktop\\projetos\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj": {
+    "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\projetos\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj",
         "projectName": "BokuNoHeroAcademia",
-        "projectPath": "C:\\Users\\Tiago\\Desktop\\projetos\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj",
+        "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\BokuNoHeroAcademia.csproj",
         "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiago\\Desktop\\projetos\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\obj\\",
+        "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\BokuNoHeroAcademia\\BokuNoHeroAcademia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
