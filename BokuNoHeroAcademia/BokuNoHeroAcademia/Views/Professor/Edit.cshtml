@@ -26,29 +26,31 @@
                 <input asp-for="NomeHeroi" class="form-control" />
                 <span asp-validation-for="NomeHeroi" class="text-danger"></span>
             </div>
+            <label class="control-label">Cursos que Leciona</label>
             <div class="form-group">
                 <div class="col-md-offset-2 col-md-10">
                     <table>
-                        <tr> @{
-                            int cnt = 0;
-                            List<BokuNoHeroAcademia.Models.AcademiaViewModels.DadosCursoAtribuido> cursos = ViewBag.Curso;
+                        <tr>
+                            @{
+                                int cnt = 0;
+                                List<BokuNoHeroAcademia.Models.AcademiaViewModels.DadosCursoAtribuido> cursos = ViewBag.Curso;
 
-                            foreach (var curso in cursos)
-                            {
-                                if (cnt++ % 3 == 0)
+                                foreach (var curso in cursos)
                                 {
-                                @:</tr><tr>
+                                    if (cnt++ % 3 == 0)
+                                    {
+                                    @:</tr><tr>
+                                    }
+                                    @:<td>
+                                        <input type="checkbox"
+                                               name="CursosSelecionados"
+                                               value="@curso.CursoID"
+                                               @(Html.Raw(curso.Atribuido ? "checked=\"checked\"" : "")) />
+                                        @curso.CursoID @:  @curso.Titulo
+                                    @:</td>
                                 }
-                                @:<td>
-                                    <input type="checkbox"
-                                            name="CursosSelecionados"
-                                            value="@curso.CursoID"
-                                            @(Html.Raw(curso.Atribuido ? "checked=\"checked\"" : "")) />
-                                    @curso.CursoID @:  @curso.Titulo
-                                @:</td>
+                            @:</tr>
                             }
-                        @:</tr>
-                        }
                     </table>
                 </div>
             </div>

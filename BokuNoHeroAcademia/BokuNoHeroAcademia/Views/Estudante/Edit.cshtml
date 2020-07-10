@@ -26,6 +26,11 @@
                 <input asp-for="NomeHeroi" class="form-control" />
                 <span asp-validation-for="NomeHeroi" class="text-danger"></span>
             </div>
+            <label class="control-label">Cursos</label>
+            <div class="form-group">
+                <select class="select2" style="width: 100%;" name="Inscricoes[]" multiple="multiple" asp-items="ViewBag.Cursos">
+                </select>
+            </div>
             <div class="form-group">
                 <input type="submit" value="Salvar" class="btn btn-primary" />
             </div>
@@ -36,6 +41,12 @@
 <div>
     <a asp-action="Index">Voltar</a>
 </div>
+
+<script>
+    $(document).ready(function () {
+        $('.select2').select2();
+    });
+</script>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using BokuNoHeroAcademia.Data;
 using BokuNoHeroAcademia.Models;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Collections.Generic;
 
 namespace BokuNoHeroAcademia.Controllers
 {
@@ -52,6 +54,8 @@ namespace BokuNoHeroAcademia.Controllers
                 return NotFound();
             }
 
+
+            ViewData["Cursos"] = new SelectList(_context.Curso, "CursoID", "Titulo");
             var estudante = await _context.Estudante.FindAsync(id);
             if (estudante == null)
             {
@@ -65,7 +69,7 @@ namespace BokuNoHeroAcademia.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("DataMatricula,ID,Nome,NomeHeroi")] Estudante estudante)
+        public async Task<IActionResult> Edit(int id, [Bind("DataMatricula,ID,Nome,NomeHeroi")] Estudante estudante, int[] Inscricoes)
         {
             if (id != estudante.ID)
             {
@@ -76,6 +80,7 @@ namespace BokuNoHeroAcademia.Controllers
             {
                 try
                 {
+                    var inscricoes = Inscricoes;
                     _context.Update(estudante);
                     await _context.SaveChangesAsync();
                 }
@@ -93,6 +98,38 @@ namespace BokuNoHeroAcademia.Controllers
                 return RedirectToAction(nameof(Index));
             }
             return View(estudante);
+        }
+
+        // Atualiza os cursos do professor
+        private void AtualizarEstudanteCursos(string[] CursosSelecionados, Estudante atualizarAluno)
+        {
+            if (CursosSelecionados == null)
+            {
+                atualizarAluno.Inscricoes = new List<Inscricao>();
+                return;
+            }
+
+            var CursosSelecionadosHS = new HashSet<string>(CursosSelecionados);
+            var alunoCursos = new HashSet<int>
+                (atualizarAluno.Inscricoes.Select(c => c.Curso.CursoID));
+            foreach (var curso in _context.Curso)
+            {
+                if (CursosSelecionadosHS.Contains(curso.CursoID.ToString()))
+                {
+                    if (!alunoCursos.Contains(curso.CursoID))
+                    {
+                        atualizarAluno.Inscricoes.Add(new Inscricao { EstudanteId = atualizarAluno.ID, CursoId = curso.CursoID });
+                    }
+                }
+                else
+                {
+                    if (alunoCursos.Contains(curso.CursoID))
+                    {
+                        Inscricao RemoveCurso = atualizarAluno.Inscricoes.FirstOrDefault(i => i.CursoId == curso.CursoID);
+                        _context.Remove(RemoveCurso);
+                    }
+                }
+            }
         }
 
         // GET: Estudante/Delete/5

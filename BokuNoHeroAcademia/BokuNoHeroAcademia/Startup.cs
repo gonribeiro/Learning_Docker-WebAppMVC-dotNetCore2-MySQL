@@ -50,7 +50,7 @@ namespace BokuNoHeroAcademia
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Professor}/{action=Index}/{id?}");
+                    pattern: "{controller=Estudante}/{action=Index}/{id?}");
             });
         }
     }

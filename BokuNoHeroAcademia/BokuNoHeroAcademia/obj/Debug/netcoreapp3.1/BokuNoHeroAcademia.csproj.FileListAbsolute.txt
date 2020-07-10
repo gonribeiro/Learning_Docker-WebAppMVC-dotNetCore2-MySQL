@@ -185,7 +185,6 @@ C:\Users\Tiago\Desktop\projetos\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\
 C:\Users\Tiago\Desktop\projetos\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.dll
 C:\Users\Tiago\Desktop\projetos\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.pdb
 C:\Users\Tiago\Desktop\projetos\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.genruntimeconfig.cache
-C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -321,10 +320,12 @@ C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNo
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.csprojAssemblyReference.cache
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.AssemblyInfoInputs.cache
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.AssemblyInfo.cs
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.csproj.CoreCompileInputs.cache
@@ -367,4 +368,3 @@ C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNo
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.dll
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.pdb
 C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.genruntimeconfig.cache
-C:\Users\Tiago\Desktop\OneDrive - IQ-UFRJ\Cursos\Dev\.NET\Projetos_Infnet\BokuNoHeroAcademia\BokuNoHeroAcademia\obj\Debug\netcoreapp3.1\BokuNoHeroAcademia.csprojAssemblyReference.cache

@@ -124,10 +124,6 @@ namespace BokuNoHeroAcademia.Controllers
                 "",
                 i => i.Nome, i => i.NomeHeroi, i => i.DataContratacao))
             {
-                /*if (String.IsNullOrWhiteSpace(atualizarProfessor.OfficeAssignment?.Location))
-                {
-                    atualizarProfessor.OfficeAssignment = null;
-                }*/
                 AtualizarProfessorCursos(CursosSelecionados, atualizarProfessor);
                 try
                 {
