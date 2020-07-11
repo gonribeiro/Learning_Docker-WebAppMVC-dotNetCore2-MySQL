@@ -4,8 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using BokuNoHeroAcademia.Data;
 using BokuNoHeroAcademia.Models;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections.Generic;
+using BokuNoHeroAcademia.Models.AcademiaViewModels;
 
 namespace BokuNoHeroAcademia.Controllers
 {
@@ -19,9 +19,24 @@ namespace BokuNoHeroAcademia.Controllers
         }
 
         // GET: Estudante
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int? id, int? CursoID)
         {
-            return View(await _context.Estudante.ToListAsync());
+            var viewModel = new EstudanteCurso();
+            viewModel.Estudantes = await _context.Estudante
+                  .Include(i => i.Inscricoes)
+                    .ThenInclude(i => i.Curso)
+                  .OrderBy(i => i.NomeHeroi)
+                  .ToListAsync();
+
+            if (id != null)
+            {
+                ViewData["EstudanteID"] = id.Value;
+                Estudante estudante = viewModel.Estudantes.Where(
+                    i => i.ID == id.Value).Single();
+                viewModel.Cursos = estudante.Inscricoes.Select(s => s.Curso);
+            }
+
+            return View(viewModel);
         }
 
         // GET: Estudante/Create
@@ -54,14 +69,40 @@ namespace BokuNoHeroAcademia.Controllers
                 return NotFound();
             }
 
+            // Select2 a implementar
+            /*ViewData["Cursos"] = new SelectList(_context.Curso, "CursoID", "Titulo");
+            var estudante = await _context.Estudante.FindAsync(id);*/
 
-            ViewData["Cursos"] = new SelectList(_context.Curso, "CursoID", "Titulo");
-            var estudante = await _context.Estudante.FindAsync(id);
+            var estudante = await _context.Estudante
+                .Include(i => i.Inscricoes).ThenInclude(i => i.Curso)
+                .AsNoTracking()
+                .FirstOrDefaultAsync(m => m.ID == id);
+
             if (estudante == null)
             {
                 return NotFound();
             }
+
+            PopularDadosDeInscricoes(estudante);
             return View(estudante);
+        }
+
+        // Carrega os cursos que o professor leciona
+        private void PopularDadosDeInscricoes(Estudante estudante)
+        {
+            var todosCursos = _context.Curso;
+            var estudanteCursos = new HashSet<int>(estudante.Inscricoes.Select(c => c.CursoId));
+            var viewModel = new List<InscricaoAluno>();
+            foreach (var curso in todosCursos)
+            {
+                viewModel.Add(new InscricaoAluno
+                {
+                    CursoID = curso.CursoID,
+                    Titulo = curso.Titulo,
+                    Inscrito = estudanteCursos.Contains(curso.CursoID)
+                });
+            }
+            ViewData["Curso"] = viewModel;
         }
 
         // POST: Estudante/Edit/5
@@ -69,52 +110,57 @@ namespace BokuNoHeroAcademia.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("DataMatricula,ID,Nome,NomeHeroi")] Estudante estudante, int[] Inscricoes)
+        public async Task<IActionResult> Edit(int? id, string[] Inscricoes)
         {
-            if (id != estudante.ID)
+            if (id == null)
             {
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
+            var atualizarEstudante = await _context.Estudante
+                .Include(i => i.Inscricoes)
+                    .ThenInclude(i => i.Curso)
+                .FirstOrDefaultAsync(m => m.ID == id);
+
+            if (await TryUpdateModelAsync<Estudante>(
+                atualizarEstudante,
+                "",
+                i => i.Nome, i => i.NomeHeroi, i => i.DataMatricula))
             {
+                AtualizarEstudanteCursos(Inscricoes, atualizarEstudante);
                 try
                 {
-                    var inscricoes = Inscricoes;
-                    _context.Update(estudante);
                     await _context.SaveChangesAsync();
                 }
-                catch (DbUpdateConcurrencyException)
+                catch (DbUpdateException /* ex */)
                 {
-                    if (!EstudanteExists(estudante.ID))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
+                    //Log the error (uncomment ex variable name and write a log.)
+                    ModelState.AddModelError("", "Impossível atualizar. " +
+                        "Tente novamente, caso erro persista " +
+                        "entre em contato com o administrador.");
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(estudante);
+            AtualizarEstudanteCursos(Inscricoes, atualizarEstudante);
+            PopularDadosDeInscricoes(atualizarEstudante);
+            return View(atualizarEstudante);
         }
 
-        // Atualiza os cursos do professor
-        private void AtualizarEstudanteCursos(string[] CursosSelecionados, Estudante atualizarAluno)
+        // Atualiza os cursos do estudante
+        private void AtualizarEstudanteCursos(string[] Inscricoes, Estudante atualizarAluno)
         {
-            if (CursosSelecionados == null)
+            if (Inscricoes == null)
             {
                 atualizarAluno.Inscricoes = new List<Inscricao>();
                 return;
             }
 
-            var CursosSelecionadosHS = new HashSet<string>(CursosSelecionados);
+            var InscricoesHS = new HashSet<string>(Inscricoes);
             var alunoCursos = new HashSet<int>
                 (atualizarAluno.Inscricoes.Select(c => c.Curso.CursoID));
             foreach (var curso in _context.Curso)
             {
-                if (CursosSelecionadosHS.Contains(curso.CursoID.ToString()))
+                if (InscricoesHS.Contains(curso.CursoID.ToString()))
                 {
                     if (!alunoCursos.Contains(curso.CursoID))
                     {

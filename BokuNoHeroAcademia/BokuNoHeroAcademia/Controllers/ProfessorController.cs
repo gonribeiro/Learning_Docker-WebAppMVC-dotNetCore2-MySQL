@@ -18,7 +18,7 @@ namespace BokuNoHeroAcademia.Controllers
             _context = context;
         }
 
-        // GET: Instructors
+        // GET: Professor
         public async Task<IActionResult> Index(int? id, int? CursoID)
         {
             var viewModel = new ProfessorCurso();

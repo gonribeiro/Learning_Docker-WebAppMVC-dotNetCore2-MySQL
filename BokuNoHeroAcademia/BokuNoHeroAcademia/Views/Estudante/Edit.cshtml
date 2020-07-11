@@ -27,9 +27,38 @@
                 <span asp-validation-for="NomeHeroi" class="text-danger"></span>
             </div>
             <label class="control-label">Cursos</label>
+            <!-- // Select2 a implementar
             <div class="form-group">
                 <select class="select2" style="width: 100%;" name="Inscricoes[]" multiple="multiple" asp-items="ViewBag.Cursos">
                 </select>
+            </div>
+            -->
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <table>
+                        <tr>
+                            @{
+                                int cnt = 0;
+                                List<BokuNoHeroAcademia.Models.AcademiaViewModels.InscricaoAluno> cursos = ViewBag.Curso;
+
+                                foreach (var curso in cursos)
+                                {
+                                    if (cnt++ % 3 == 0)
+                                    {
+                                    @:</tr><tr>
+                                    }
+                                    @:<td>
+                                        <input type="checkbox"
+                                               name="Inscricoes"
+                                               value="@curso.CursoID"
+                                               @(Html.Raw(curso.Inscrito ? "checked=\"checked\"" : "")) />
+                                        @curso.CursoID @:  @curso.Titulo
+                                    @:</td>
+                                }
+                            @:</tr>
+                            }
+                    </table>
+                </div>
             </div>
             <div class="form-group">
                 <input type="submit" value="Salvar" class="btn btn-primary" />

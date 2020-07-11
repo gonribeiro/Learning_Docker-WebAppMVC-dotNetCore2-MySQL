@@ -27,17 +27,3 @@ Um departamento possui um coordenar e um professor pode coordenar muitos departa
 Professor pode lecionar em muitos cursos e um curso pode ter muitos professores:
 
 ![](readme/nxn.png)
-
-Aluno pode estar em muitos cursos e um curso pode ter muitos alunos.
-
-A fim de aprendizado, diferenciando de professor que utiliza checkbox para associá-lo a muitos cursos, estudante utiliza select dinâmico para o mesmo objetivo.
-
-![](readme/nxn_estudante.png)
-
-## Projetos e pacotes de referência: 
-
-
-- https://docs.microsoft.com/pt-br/aspnet/core/data/ef-mvc/?view=aspnetcore-3.1
-- https://www.schoolofnet.com/projeto-pratico/aspnet/dotnet-core/sistema-de-supermercado-com-aspnet-core/
-- https://select2.org/
-- https://datatables.net/
