@@ -22,6 +22,10 @@ namespace BokuNoHeroAcademia.Data
         {
             modelBuilder.Entity<CursoAtribuido>()
                 .HasKey(c => new { c.CursoID, c.ProfessorID });
+
+            modelBuilder.Entity<Curso>()
+                .HasOne(p => p.Departamento)
+                .WithMany(b => b.Cursos);
         }
     }
 }
