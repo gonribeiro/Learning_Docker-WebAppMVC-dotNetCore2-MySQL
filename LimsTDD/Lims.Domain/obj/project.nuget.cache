@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJtKUdYc3G3ydYEjja2mh5v184Wl5wqSKcgTBmXGODQOhRQV16Y/yLMxjnfO6PYvchZODBE4EmZJ8II5OZuKzg==",
+  "success": true,
+  "projectFilePath": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\LimsTDD\\Lims.Domain\\Lims.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

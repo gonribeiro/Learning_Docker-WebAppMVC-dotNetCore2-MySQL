@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WIAvOCR7EuyBLDk2sxqvCgTOCJLs6UADjE8eXl0Erndw3Yfy9Px0T0Im+xnoBj/TMoT8gPB/NNbJQyA5lai3zw==",
+  "dgSpecHash": "Gs6EqYUuIISLzIO2iMX9ddExBkSsgodRgaIKHNlPDpvSliPALBbHPcCbzQ6T3w0woUZ7dZ0xc5IIxHDRhsdjeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj",
+  "projectFilePath": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tiago\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Tiago\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

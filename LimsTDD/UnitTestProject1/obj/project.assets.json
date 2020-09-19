@@ -5689,11 +5689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\INFLIMS\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\LimsTDD\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "C:\\Users\\Tiago\\Desktop\\INFLIMS\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectPath": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\LimsTDD\\UnitTestProject1\\UnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago\\Desktop\\INFLIMS\\UnitTestProject1\\obj\\",
+      "outputPath": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\LimsTDD\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5712,11 +5712,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Tiago\\Desktop\\INFLIMS\\Lims.Domain\\Lims.Domain.csproj": {
-              "projectPath": "C:\\Users\\Tiago\\Desktop\\INFLIMS\\Lims.Domain\\Lims.Domain.csproj"
+            "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\LimsTDD\\Lims.Domain\\Lims.Domain.csproj": {
+              "projectPath": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\LimsTDD\\Lims.Domain\\Lims.Domain.csproj"
             },
-            "C:\\Users\\Tiago\\Desktop\\INFLIMS\\Lims.Infra\\Lims.Infra.csproj": {
-              "projectPath": "C:\\Users\\Tiago\\Desktop\\INFLIMS\\Lims.Infra\\Lims.Infra.csproj"
+            "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\LimsTDD\\Lims.Infra\\Lims.Infra.csproj": {
+              "projectPath": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\LimsTDD\\Lims.Infra\\Lims.Infra.csproj"
             }
           }
         }
@@ -5763,7 +5763,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

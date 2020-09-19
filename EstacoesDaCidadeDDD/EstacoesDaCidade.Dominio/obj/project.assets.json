@@ -774,11 +774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj",
+      "projectUniqueName": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj",
       "projectName": "EstacoesDaCidade.Dominio",
-      "projectPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj",
+      "projectPath": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\EstacoesDaCidade.Dominio.csproj",
       "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago\\Desktop\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\ProjetosInfnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\obj\\",
+      "outputPath": "C:\\Docs\\OneDrive - IQ-UFRJ\\Cursos\\Dev\\.NET\\Projetos_Infnet\\EstacoesDaCidadeDDD\\EstacoesDaCidade.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

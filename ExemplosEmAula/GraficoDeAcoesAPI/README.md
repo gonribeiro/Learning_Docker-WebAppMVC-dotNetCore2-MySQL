@@ -1,1 +1,0 @@
-Projeto permite a pesquisa de ações do mercado americado e exibe sua média diária.
